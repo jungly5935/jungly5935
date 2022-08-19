@@ -1,5 +1,5 @@
 <!--
-**jungly5935/jungly5935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sukyeee/sukyeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 <br/>
 <h3>✨ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬 ✨</h3> -->
 <!-- 
-[![jungly5935 GitHub stats](https://github-readme-stats.vercel.app/api?username=jungly5935&show_icons=true&bg_color=30,6d0fe8,fccbc9&title_color=fff&text_color=fff&theme=yeblu)](https://github.com/jungly5935/github-readme-stats) -->
+[![sukyeee GitHub stats](https://github-readme-stats.vercel.app/api?username=sukyeee&show_icons=true&bg_color=30,6d0fe8,fccbc9&title_color=fff&text_color=fff&theme=yeblu)](https://github.com/sukyeee/github-readme-stats) -->
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungly5935&layout=compact&theme=vue&title_color=F65A83)](https://github.com/jungly5935/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukyeee&layout=compact&theme=vue&title_color=F65A83)](https://github.com/sukyeee/github-readme-stats)
   
 
 </div>
